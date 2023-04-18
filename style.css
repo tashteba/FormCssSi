@@ -1,0 +1,52 @@
+
+body { 
+    font-size: 16px;
+    color: white;
+}
+
+.main {
+    background-image:url('sq.png');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    height: auto;
+}
+.container {
+    background-color: rgba(6, 6, 223, 0.329);
+    height: auto;
+
+}
+.form{
+    color: white;
+    width: 30%;
+    margin: auto;
+    background-color: rgba(3, 3, 20, 0.329);
+    
+
+}
+
+.formContainer 
+{
+    margin: 10px;
+    padding: 25px;
+}
+/* .comple{
+    width: 100px;
+} */
+label,input
+{
+    width: 100%;
+    margin-bottom: 10px;
+
+}
+
+
+legend{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+textarea{width: 100%;}
+button {
+    background-color: green;
+    width: 100%;
+    cursor:pointer;
+}
